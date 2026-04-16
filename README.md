@@ -1,6 +1,3 @@
 # FirstRepo
-# FirstRepo
-
 Laborator 2 - TEST CONFLICT
-
-Aceasta este varianta din branch.
+Modificare realizată în branch-ul first_lab pentru laboratorul 2 CI/CD.
