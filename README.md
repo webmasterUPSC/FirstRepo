@@ -1,4 +1,4 @@
 # FirstRepo
-Laborator 2  MODIFICARE DIN MAIN
+Laborator 2_ MODIFICARE DIN MAIN
 
 Aceasta este varianta din main.
